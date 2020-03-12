@@ -25,3 +25,10 @@ Testo in *corsivo*
    1. di cui 3b
       1. invece il 3ba?
       1. ed il 3bb?
+      
+## Come si inserisce un immagine
+
+### Prima prova:
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
