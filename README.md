@@ -33,4 +33,4 @@ Testo in *corsivo*
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-~~Prova fallita~~
+~~Prova fallita~~ :persevere::anger:
